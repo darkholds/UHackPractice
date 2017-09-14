@@ -10,7 +10,8 @@ namespace UHackPractice
     {
         static void Main(string[] args)
         {
-            string t = "Test";
+            string t = "Test1";
+            Console.Write(t);
         }
     }
 }
