@@ -11,6 +11,8 @@ namespace UHackPractice
         static void Main(string[] args)
         {
             string t = "Test";
+            int i = 0;
+            double d = 0;
         }
     }
 }
